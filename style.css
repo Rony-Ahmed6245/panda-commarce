@@ -18,3 +18,24 @@
 .price{
     color: rgb(226, 72, 144);
 }
+
+.cat1 , .cat2 ,.cat3 {
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+.cat1{
+ background-color:rgb(240, 171, 44);
+}
+.cat2{
+background-color: tomato;
+}
+
+.cat3{
+background-color: rgb(76, 76, 223);
+}
+.color{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
