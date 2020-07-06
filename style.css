@@ -43,3 +43,11 @@ background-color: rgb(76, 76, 223);
     border: none;
     box-shadow: 10px 10px 20px gray;
 }
+
+
+#subscribe{
+    height: 300px;
+}
+.text h6{
+    color: gray;
+}
