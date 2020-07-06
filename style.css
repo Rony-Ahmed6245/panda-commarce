@@ -39,3 +39,7 @@ background-color: rgb(76, 76, 223);
 .categories img{
     width: 100px;
 }
+.card{
+    border: none;
+    box-shadow: 10px 10px 20px gray;
+}
